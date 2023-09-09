@@ -21,7 +21,8 @@ pip install xlwt
 
 **1.打开天眼查网页，得到如下界面：**
 
-![image-20230820172356471](.\readme.assets\image-20230820172356471.png)
+![image-20230820172356471](https://github.com/HansonLuo9816/catch-mast/blob/main/readme.assets\image-20230820172356471.png)
+
 
 然后点击鼠标右键，点击检查按钮，得到如下界面：
 
