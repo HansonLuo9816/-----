@@ -26,23 +26,23 @@ pip install xlwt
 
 然后点击鼠标右键，点击检查按钮，得到如下界面：
 
-![image-20230820172517675](readme.assets\image-20230820172517675.png)
+![image-20230820172517675](readme.assets/image-20230820172517675.png)
 
 在该界面点击Network以及Doc选项（用红圈标注）
 
-![image-20230820172624227](readme.assets\image-20230820172624227.png)
+![image-20230820172624227](readme.assets/image-20230820172624227.png)
 
 然后使用 **Ctrl+R**刷新网页得到如下界面
 
-![image-20230820172739160](.\readme.assets\image-20230820172739160.png)
+![image-20230820172739160](readme.assets/image-20230820172739160.png)
 
 在该界面下单击 **https://www.tianyancha.com/** ，按照下图指使得到Cookie以及User-Agent参数
 
-![image-20230820173001093](readme.assets\image-20230820173001093.png)
+![image-20230820173001093](readme.assets/image-20230820173001093.png)
 
 然后将程序中hearders的部分中的两个参数替换即可
 
-![image-20230820173056254](readme.assets\image-20230820173056254.png)
+![image-20230820173056254](readme.assets/image-20230820173056254.png)
 
 ## 3.使用步骤
 
